@@ -1,0 +1,24 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prompt.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crangel93/teamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crangel93/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/crangel93/teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "jest": "^29.0.2"
+  }
+}

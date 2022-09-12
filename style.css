@@ -1,0 +1,18 @@
+#header{
+border-width:100%;
+border: 3rem ;
+background-color:pink;
+
+
+
+
+
+}
+#teamCard{
+    border-style: solid;
+    width:150px;
+    height: 225px;
+    float:left;
+    margin:25px;
+
+}
