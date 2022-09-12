@@ -1,5 +1,5 @@
 # Team Profile Generator
-## A node cli application that takes employee data and creates a webpage to hold that information
+## A node cli application that takes employee data and creates a webpage to display that information in cards
 ### Developed by Christian Rangel
 
 
